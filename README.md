@@ -22,7 +22,8 @@ https://www.youtube.com/watch?v=x4HUaiazDes
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 https://www.w3schools.com/js/js_if_else.asp
 
+Live URL: https://ginalguerrero.github.io/casesensitive.passwordgen/
 
 
-
+![Password Generator](https://user-images.githubusercontent.com/112473624/194479393-58a79684-e780-4200-b5a3-0be9168ab967.gif)
 
