@@ -25,5 +25,5 @@ https://www.w3schools.com/js/js_if_else.asp
 Live URL: https://ginalguerrero.github.io/casesensitive.passwordgen/
 
 
-![Password Generator](https://user-images.githubusercontent.com/112473624/194479393-58a79684-e780-4200-b5a3-0be9168ab967.gif)
 
+![Password Generator](https://user-images.githubusercontent.com/112473624/199120919-810d88eb-ded2-4cfb-9fcc-818d955217a3.gif)
