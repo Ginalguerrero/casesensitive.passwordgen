@@ -26,4 +26,4 @@ Live URL: https://ginalguerrero.github.io/casesensitive.passwordgen/
 
 
 
-![Password Generator](https://user-images.githubusercontent.com/112473624/199120919-810d88eb-ded2-4cfb-9fcc-818d955217a3.gif)
+![password generator demo](https://user-images.githubusercontent.com/112473624/199121351-fd9f8829-9509-4022-8545-182294350e3e.gif)
